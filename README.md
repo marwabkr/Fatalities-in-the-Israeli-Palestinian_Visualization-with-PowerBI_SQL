@@ -36,6 +36,9 @@ To replicate this project, follow these steps:
 ## Results
 
 The results of the analysis, including visualizations, insights, and interpretations, can be found in the [FREEPALESTINA].
+## DATA VISUALIZATION
+![Capture d’écran 2023-10-31 093121](https://github.com/marwabkr/Fatalities-in-the-Israeli-Palestinian_Visualization-with-PowerBI_SQL/assets/149466575/8e6015bc-d958-41db-ac29-cb32da1e9fe9)
+![Capture d’écran 2023-10-31 093155](https://github.com/marwabkr/Fatalities-in-the-Israeli-Palestinian_Visualization-with-PowerBI_SQL/assets/149466575/d5658b69-420a-4913-bb73-6d034ac64a02)
 
 ## Conclusion
 
